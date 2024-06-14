@@ -1,11 +1,11 @@
-band_name;song_title;album_list;num_album;smallest_date;biggest_date;max_view;num_feat;profanity_count;profanity_ratio
+band_name;song_title;album_list;num_album;smallest_date;biggest_date;max_view;num_feat;profanity_count;profanity_ratio;NEGATIVE;POSITIVE
 Amaranthe;83;"['Helix' 'Amaranthe' 'Massive Addictive' 'Manifest' 'The Nexus'
  'Maximalism' 'PvP (Remix) - Single' ' Manifest (Bonus Version) '
- 'The Catalyst' 'Communio Lupatum']";8;18/02/2009;16/11/2023;11113.0;5;4;0.04819277108433735
+ 'The Catalyst' 'Communio Lupatum']";8;2009-02-18;2023-11-16;11113.0;5;4;0.0481927710843373;44;39
 Anthony Green;79;"['Pixie Queen' 'Studio 4 Acoustic Session' 'Would You Still Be In Love'
  'Avalon' 'Boom. Done.' 'Beautiful Things' 'Young Legs'
  'Music for Everyone' 'Lets Start a Band'
- 'Off The Board: A Studio 4 Family Compilation']";9;05/08/2008;13/05/2023;28210.0;5;11;0.13924050632911392
+ 'Off The Board: A Studio 4 Family Compilation']";9;2008-08-05;2023-05-13;28210.0;5;11;0.1392405063291139;55;24
 Architects;127;"['Holy Hell' 'All Our Gods Have Abandoned Us'
  'Live at The Royal Albert Hall' 'For Those That Wish to Exist'
  'Lost Forever // Lost Together' 'A11*' 'Daybreaker'
@@ -13,25 +13,25 @@ Architects;127;"['Holy Hell' 'All Our Gods Have Abandoned Us'
  'All Our Gods Have Abandoned Us (HMV Exclusive Edition)'
  'The Here and Now' 'Daybreaker (Deluxe Edition)'
  'Lost Forever // Lost Together (Deluxe Edition)' 'Ruin' 'Nightmares'
- 'Spotify Singles' 'Worship and Tributes' 'Covering 20 Years of Extremes']";13;15/05/2006;04/12/2023;232410.0;10;33;0.25984251968503935
+ 'Spotify Singles' 'Worship and Tributes' 'Covering 20 Years of Extremes']";13;2006-05-15;2023-12-04;232410.0;10;33;0.2598425196850393;104;23
 Bad Omens;40;"['THE DEATH OF PEACE OF MIND' 'Bad Omens'
  'Finding God Before God Finds Me'
- 'Finding God Before God Finds Me (Deluxe)']";4;18/12/2015;25/02/2022;97665.0;0;10;0.25
+ 'Finding God Before God Finds Me (Deluxe)']";4;2015-12-18;2022-02-25;97665.0;0;10;0.25;32;8
 Blue October;175;"['Foiled' 'History For Sale' 'I Hope You’re Happy' 'Any Man In America'
  'This Is What I Live For' 'Sway' 'Home' 'Approaching Normal'
  'Spinning the Truth Around (Part I)'
  'Spinning The Truth Around (Part II)' 'The Answers'
- 'Consent to Treatment' 'Preaching Lies to the Righteous' 'Incoming']";14;15/08/2000;13/10/2023;457485.0;4;36;0.2057142857142857
+ 'Consent to Treatment' 'Preaching Lies to the Righteous' 'Incoming']";14;2000-08-15;2023-10-13;457485.0;4;36;0.2057142857142857;104;71
 Brand New;85;"['The Devil and God Are Raging Inside Me' 'Deja Entendu' 'Science Fiction'
  'Your Favorite Weapon' 'Daisy' 'I Am a Nightmare (Single)'
  'Mene - Single' 'Brand New / Safety in Numbers [EP]'
  '3 Demos, Reworked [EP]' '(Fork and Knife) (Single)'
  'Fight Off Your Demons' 'Sowing Season (Single)'
  'The Quiet Things That No One Ever Knows (Single)'
- 'At The Bottom (Single)' 'The Holiday EP' 'Jesus Christ (Single)']";9;09/10/2001;17/08/2017;303815.0;0;6;0.07058823529411765
+ 'At The Bottom (Single)' 'The Holiday EP' 'Jesus Christ (Single)']";9;2001-10-09;2017-08-17;303815.0;0;6;0.0705882352941176;70;15
 Breaking Benjamin;80;"['Phobia' 'Ember' 'Dark Before Dawn' 'We Are Not Alone' 'Dear Agony'
  'Aurora' 'Saturate' 'So Cold - EP'
- 'Shallow Bay: The Best of Breaking Benjamin']";9;27/08/2002;06/12/2019;204551.0;2;24;0.3
+ 'Shallow Bay: The Best of Breaking Benjamin']";9;2002-08-27;2019-12-06;204551.0;2;24;0.3;62;18
 Bring Me The Horizon;125;"['Live at Wembley' 'POST HUMAN: SURVIVAL HORROR' 'amo' 'Sempiternal'
  'That’s The Spirit' 'POST HUMAN: SURVIVAL HORROR (Japan Edition)'
  'POST HUMAN: NeX GEn'
@@ -45,7 +45,7 @@ Bring Me The Horizon;125;"['Live at Wembley' 'POST HUMAN: SURVIVAL HORROR' 'amo'
  'That’s The Spirit (Track by Track Commentary)'
  'Find Your Line (Official Music from Gran Turismo 7)'
  'Bring Me The Horizon Radio 1 Live Sessions (2019)'
- 'Celebrate Life in Honor of Chester Bennington']";13;02/10/2003;13/10/2023;435778.0;23;56;0.448
+ 'Celebrate Life in Honor of Chester Bennington']";13;2003-10-02;2023-10-13;435778.0;23;56;0.448;101;24
 CHVRCHES;76;"['The Bones of What You Believe (Special Edition)' 'Every Open Eye'
  'Love Is Dead' 'In Search of Darkness' 'Screen Violence'
  'The Hunger Games: Mockingjay, Pt. 1 (Original Motion Picture Soundtrack)'
@@ -56,7 +56,7 @@ CHVRCHES;76;"['The Bones of What You Believe (Special Edition)' 'Every Open Eye'
  'Tegan and Sara Present The Con X: Covers'
  'Vampire Academy (Music From the Motion Picture)'
  'The Bones of What You Believe (10th Anniversary Edition)'
- 'Spotify Singles' ""BBC Radio 1's Live Lounge 2015""]";10;05/11/2012;20/10/2023;221424.0;2;7;0.09210526315789473
+ 'Spotify Singles' ""BBC Radio 1's Live Lounge 2015""]";10;2012-11-05;2023-10-20;221424.0;2;7;0.0921052631578947;55;21
 Circa Survive;103;"['On Letting Go' 'The Amulet' 'Juturna' 'Blue Sky Noise'
  'The Music Of Circa Survive: 2005 - 2012' 'Descensus' 'Two Dreams'
  'Hurricane Sandy Benefit EP' 'Appendage' 'Violent Waves'
@@ -64,7 +64,7 @@ Circa Survive;103;"['On Letting Go' 'The Amulet' 'Juturna' 'Blue Sky Noise'
  'Lipton Witch / Bad Heart' 'Awake In A Dream / Rainbow Signs'
  'Doused in Mud, Soaked in Bleach' 'In Utero: In Tribute'
  'Off The Board: A Studio 4 Family Compilation'
- 'Whatever Nevermind: A Tribute to Nirvana’s Nevermind']";17;18/03/2005;04/02/2022;46402.0;2;7;0.06796116504854369
+ 'Whatever Nevermind: A Tribute to Nirvana’s Nevermind']";17;2005-03-18;2022-02-04;46402.0;2;7;0.0679611650485436;88;15
 Coheed and Cambria;137;"['Good Apollo, I’m Burning Star IV, Volume One: From Fear Through the Eyes of Madness'
  'Vaxis – Act I: The Unheavenly Creatures'
  'In Keeping Secrets of Silent Earth: 3' 'The Color Before the Sun'
@@ -75,11 +75,11 @@ Coheed and Cambria;137;"['Good Apollo, I’m Burning Star IV, Volume One: From F
  'Batman: Arkham City – The Album'
  'The Afterman: Ascension (Big Beige Demos)'
  'Maiden Heaven: A Tribute to Iron Maiden '
- 'ZZ Top: A Tribute from Friends']";14;05/03/2002;24/06/2022;156565.0;3;39;0.2846715328467153
+ 'ZZ Top: A Tribute from Friends']";14;2002-03-05;2022-06-24;156565.0;3;39;0.2846715328467153;99;38
 Dayseeker;71;"['Sleeptalk' 'Dark Sun' 'Dreaming Is Sinking /// Waking Is Rising'
  'Origin' 'What It Means to Be Defeated' 'Origin (Deluxe Edition)'
  'Dreaming Is Sinking /// Waking Is Rising (Reimagined) - EP'
- 'Sleeptalk (Deluxe)']";7;06/10/2013;04/11/2022;53303.0;8;17;0.23943661971830985
+ 'Sleeptalk (Deluxe)']";7;2013-10-06;2022-11-04;53303.0;8;17;0.2394366197183098;56;15
 Deftones;148;"['White Pony ' 'Around the Fur' 'Diamond Eyes' 'Saturday Night Wrist'
  'Adrenaline' 'Koi No Yokan' 'Deftones' 'Ohms' 'Gore' 'B-Sides & Rarities'
  'Eros [Unreleased]' 'Hexagram - Single'
@@ -87,18 +87,18 @@ Deftones;148;"['White Pony ' 'Around the Fur' 'Diamond Eyes' 'Saturday Night Wri
  '7 Words - Single'
  'Make Some Noise: The Amnesty International Campaign to Save Darfur'
  'For the Masses' 'Milk'
- 'Saturday Night Wrist Bob Ezrin Produced Demos/Outtakes']";16;03/10/1995;26/10/2021;321357.0;11;41;0.27702702702702703
+ 'Saturday Night Wrist Bob Ezrin Produced Demos/Outtakes']";16;1995-10-03;2021-10-26;321357.0;11;41;0.277027027027027;85;63
 Don Broco;70;"['Technology' 'Amazing Things' 'ACTION - Single' 'Automatic (Deluxe)'
  'Thug Workout - EP' 'Priorities (Deluxe Version)'
  'Big Fat Smile (Deluxe Edition)' 'You Wanna Know - Single'
- 'Living the Dream - EP']";5;04/11/2008;15/09/2023;31599.0;1;17;0.24285714285714285
-Earthside;14;['A Dream In Static' 'Let the Truth Speak'];2;23/10/2015;17/11/2023;11917.0;13;0;0.0
+ 'Living the Dream - EP']";5;2008-11-04;2023-09-15;31599.0;1;17;0.2428571428571428;48;22
+Earthside;14;['A Dream In Static' 'Let the Truth Speak'];2;2015-10-23;2023-11-17;11917.0;13;0;0.0;8;6
 Fightstar;86;"['Behind The Devil’s Back' 'They Liked You Better When You Were Dead'
  'Be Human' 'Grand Unification' 'Alternate Endings'
  'One Day Son, This Will All Be Yours'
  'Maiden Heaven: A Tribute to Iron Maiden '
  'Remastered: Metallica’s Master of Puppets Revisited'
- 'Be Human (Deluxe Edition)']";8;25/02/2005;16/10/2015;;0;13;0.1511627906976744
+ 'Be Human (Deluxe Edition)']";8;2005-02-25;2015-10-16;;0;13;0.1511627906976744;59;27
 Foals;117;"['What Went Down' 'Total Life Forever' 'Holy Fire'
  'Everything Not Saved Will Be Lost - Part 1'
  'Everything Not Saved Will Be Lost - Part 2' 'Antidotes'
@@ -107,12 +107,12 @@ Foals;117;"['What Went Down' 'Total Life Forever' 'Holy Fire'
  'Red Socks Pugie - Single' 'Mathletics - Single'
  'Olympic Airways - Single' 'Cassius - Single'
  'Try This On Your Piano - Single' 'Radio 1 Rescores: Drive' 'Life Is Dub'
- 'Holy Fire (Box Set Edition)']";10;27/03/2006;21/04/2023;171319.0;0;3;0.02564102564102564
+ 'Holy Fire (Box Set Edition)']";10;2006-03-27;2023-04-21;171319.0;0;3;0.0256410256410256;78;39
 Jason Isbell;54;"['Southeastern' 'Something More Than Free' 'Sirens of the Ditch'
  'Southern Family' 'Song Reader' 'Sirens of the Ditch (Deluxe Edition)'
  'Adopt A Highway Soundtrack'
  'Broken Hearts & Dirty Windows: Songs of John Prine Vol. 2'
- 'The Ice Road (Music From and Inspired by the Netflix Film)']";8;10/06/2007;08/10/2021;174579.0;0;5;0.09259259259259259
+ 'The Ice Road (Music From and Inspired by the Netflix Film)']";8;2007-06-10;2021-10-08;174579.0;0;5;0.0925925925925925;47;7
 Katatonia;180;"['The Great Cold Distance' 'The Fall of Hearts' 'City Burials'
  'Sanctitude' 'Discouraged Ones' 'Last Fair Deal Gone Down'
  'Night Is the New Day (Special Tour Edition)' 'Dead End Kings'
@@ -120,14 +120,14 @@ Katatonia;180;"['The Great Cold Distance' 'The Fall of Hearts' 'City Burials'
  'Brave Murder Day' 'Sky Void of Stars' 'Mnemosynean'
  'Dance of December Souls' 'Sounds of Decay [EP]'
  'For Funerals to Come [EP]' 'Jhva Elohim Meth… the Revival [Demo]'
- 'Dethroned & Uncrowned']";18;14/12/1993;20/01/2023;21315.0;5;12;0.06666666666666667
+ 'Dethroned & Uncrowned']";18;1993-12-14;2023-01-20;21315.0;5;12;0.0666666666666666;146;34
 La Dispute;87;"['Wildlife' 'Somewhere at the Bottom of the River Between Vega and Altair'
  'Rooms of the House' 'Panorama'
  'Searching for a Pulse/The Worth of the World' 'Here, Hear. III'
  'Here, Hear.' 'Vancouver' 'Tiny Dots' 'Never Come Undone'
  'Here, Hear. II' 'Untitled 7""' 'Here, Hear, Vol. 4'
  'Winter Tour Holiday CD-R'
- 'Whatever Nevermind: A Tribute to Nirvana’s Nevermind']";15;14/04/2006;24/12/2021;159338.0;2;6;0.06896551724137931
+ 'Whatever Nevermind: A Tribute to Nirvana’s Nevermind']";15;2006-04-14;2021-12-24;159338.0;2;6;0.0689655172413793;56;31
 Lord of the Lost;223;"['Thornstar (Deluxe Edition)' 'Die Tomorrow'
  'From the Flame Into the Fire' 'Blood & Glitter'
  'Empyrean (Deluxe Edition)' 'Judas (Deluxe Edition)' 'Antagony' 'Fears'
@@ -136,7 +136,7 @@ Lord of the Lost;223;"['Thornstar (Deluxe Edition)' 'Die Tomorrow'
  'Till Death Us Do Part - Rarities & Remixes'
  'Weapons of Mass Seduction Deluxe Boxset' 'Swan Songs (Deluxe Edition)'
  'Dare to Know' 'Full Metal Whore' 'Communio Lupatum II'
- 'Weapons of Mass Seduction Deluxe Edition']";14;28/08/2009;29/12/2023;13788.0;31;54;0.242152466367713
+ 'Weapons of Mass Seduction Deluxe Edition']";14;2009-08-28;2023-12-29;13788.0;31;54;0.242152466367713;151;72
 Metric;130;"['Greatest Hits Vol. 1' 'Synthetica' 'Pagans in Vegas' 'Fantasies'
  'Art of Doubt' 'Old World Underground, Where Are You Now?' 'Live It Out'
  'The Twilight Saga: Eclipse (Original Motion Picture Soundtrack)'
@@ -147,7 +147,7 @@ Metric;130;"['Greatest Hits Vol. 1' 'Synthetica' 'Pagans in Vegas' 'Fantasies'
  'Fantastic Voyages' 'Mainstream - EP' 'iTunes Session'
  'Cosmopolis (Original Motion Picture Soundtrack)' 'Static Anonymity - EP'
  'Help I’m Alive - Single' 'Gimme Sympathy - Single'
- 'Synthetica (Reflections)']";20;02/09/2003;17/11/2023;292326.0;1;12;0.09230769230769231
+ 'Synthetica (Reflections)']";20;2003-09-02;2023-11-17;292326.0;1;12;0.0923076923076923;107;23
 My Chemical Romance;104;"['The Black Parade (Deluxe Version)' 'Three Cheers for Sweet Revenge'
  'MCR5*'
  'Danger Days: The True Lives of the Fabulous Killjoys (Apple Music Deluxe Version)'
@@ -163,51 +163,51 @@ My Chemical Romance;104;"['The Black Parade (Deluxe Version)' 'Three Cheers for 
  'Tony Hawk’s American Wasteland ' 'Like Phantoms, Forever - EP'
  'Live Acoustic at 98.7FM Penthouse' 'My Chemical Romance '
  ""BBC Radio 1's Live Lounge, Vol. 1"" 'Thank You For The Venom - Single'
- 'Warped Tour Bootleg Series - EP']";20;27/05/2002;12/05/2022;1179103.0;3;33;0.3173076923076923
+ 'Warped Tour Bootleg Series - EP']";20;2002-05-27;2022-05-12;1179103.0;3;33;0.3173076923076923;81;23
 Nightwish;141;"['Once' 'HUMAN. :||: NATURE.' 'Endless Forms Most Beautiful '
  'Dark Passion Play' 'Imaginaerum' 'Highest Hopes: The Best of Nightwish'
  'Century Child' 'Oceanborn' 'Wishmaster' 'Decades' 'Angels Fall First'
  'Nuclear Blast Presents Nightwish Bonus' 'Over the Hills and Far Away'
  'The Crow, the Owl and the Dove' 'Nightwish' 'Kuolema Tekee Taiteilijan'
  ' Once (Remastered) ' 'Élan' 'Bless the Child' 'From Wishes to Eternity'
- 'Decades - Live In Buenos Aires']";21;01/11/1997;06/08/2021;71994.0;0;13;0.09219858156028368
+ 'Decades - Live In Buenos Aires']";21;1997-11-01;2021-08-06;71994.0;0;13;0.0921985815602836;63;78
 PVRIS;63;"['All We Know of Heaven, All We Need of Hell'
  'White Noise (Deluxe Version)' 'White Noise ' 'Use Me'
  'Hallucinations - EP' 'Use Me (Deluxe)' 'Paris - EP'
  'Tegan and Sara Present The Con X: Covers' 'EVERGREEN'
- 'Punk Goes Pop, Vol. 6']";9;01/01/2013;14/07/2023;82828.0;4;12;0.19047619047619047
+ 'Punk Goes Pop, Vol. 6']";9;2013-01-01;2023-07-14;82828.0;4;12;0.1904761904761904;44;19
 Poets of the Fall;107;"['Carnival of Rust' 'Twilight Theater' 'Ultraviolet' 'Temple of Thought '
  'Signs of Life ' 'Clearview' 'Jealous Gods ' 'Revolution Roulette'
  'Ghostlight' 'Alchemy Vol.1' 'Lift '
- 'Melkein vieraissa – Nimemme on Dingo']";12;19/01/2005;29/04/2022;61504.0;0;2;0.018691588785046728
+ 'Melkein vieraissa – Nimemme on Dingo']";12;2005-01-19;2022-04-29;61504.0;0;2;0.0186915887850467;57;50
 Prime Circle;25;"['Evidence' 'All or Nothing' 'Jekyll & Hyde' 'Hello Crazy World'
- 'Let The Night In']";5;24/06/2008;22/09/2017;;0;1;0.04
+ 'Let The Night In']";5;2008-06-24;2017-09-22;;0;1;0.04;16;9
 STARSET;62;"['Transmissions ' 'Vessels' 'DIVISIONS' 'HORIZONS'
  'Waiting On The Sky To Change - Single' 'Vessels 2.0'
- 'TRIALS (reimagine) - Single' 'The PROX Transmissions - EP']";6;13/05/2013;19/08/2022;129993.0;2;4;0.06451612903225806
+ 'TRIALS (reimagine) - Single' 'The PROX Transmissions - EP']";6;2013-05-13;2022-08-19;129993.0;2;4;0.064516129032258;37;25
 Sleep Token;50;"['Take Me Back To Eden' 'This Place Will Become Your Tomb' 'Sundowning'
- 'Two' 'Sundowning (Deluxe)' 'One']";6;08/09/2016;19/05/2023;157254.0;0;4;0.08
+ 'Two' 'Sundowning (Deluxe)' 'One']";6;2016-09-08;2023-05-19;157254.0;0;4;0.08;35;15
 Soen;65;"['Lykaia' 'Lotus' 'IMPERIAL' 'Cognitive' 'Tellurian' 'Memorial'
- 'The Undiscovered Lotus' 'Lykaia Revisited' 'ATLANTIS']";9;05/02/2012;01/09/2023;27708.0;1;0;0.0
+ 'The Undiscovered Lotus' 'Lykaia Revisited' 'ATLANTIS']";9;2012-02-05;2023-09-01;27708.0;1;0;0.0;51;14
 Steam Powered Giraffe;106;"['The 2¢ Show' 'Album One' 'The Vice Quadrant: A Space Opera'
- 'Quintessential' '1896' 'MK III' 'Music from SteamWorld Heist']";7;30/10/2009;26/11/2021;63720.0;1;7;0.0660377358490566
+ 'Quintessential' '1896' 'MK III' 'Music from SteamWorld Heist']";7;2009-10-30;2021-11-26;63720.0;1;7;0.0660377358490566;48;58
 TesseracT;57;"['Polaris' 'Altered State' 'Sonder' 'One' 'War of Being' 'Perspective'
- 'PORTALS' 'Regrowth']";8;16/09/2010;15/09/2023;30656.0;1;3;0.05263157894736842
+ 'PORTALS' 'Regrowth']";8;2010-09-16;2023-09-15;30656.0;1;3;0.0526315789473684;40;17
 The Birthday Massacre;118;"['Walking With Strangers' 'Under Your Spell' 'Nothing & Nowhere' 'Violet'
  'Pins and Needles' 'Superstition' 'Diamonds' 'Imagica' 'Fascination'
- 'Hide And Seek' 'Imaginary Monsters' 'Looking Glass']";12;23/07/2002;18/02/2022;12191.0;0;7;0.059322033898305086
+ 'Hide And Seek' 'Imaginary Monsters' 'Looking Glass']";12;2002-07-23;2022-02-18;12191.0;0;7;0.059322033898305;98;20
 The Dangerous Summer;78;"['Reach for the Sun' 'The Dangerous Summer' 'Mother Nature' 'War Paint'
  'All That Is Left of the Blue Sky' 'Golden Record'
  'If You Could Only Keep Me Alive'
  'An Acoustic Performance of Reach for the Sun' 'Coming Home'
- 'The Best Part of Letting Go - Single']";9;05/05/2009;26/08/2022;11355.0;1;7;0.08974358974358974
+ 'The Best Part of Letting Go - Single']";9;2009-05-05;2022-08-26;11355.0;1;7;0.0897435897435897;41;37
 The Dear Hunter;153;"['Act IV: Rebirth in Reprise'
  'Act V: Hymns With the Devil in Confessional'
  'Act I: The Lake South, The River North' 'Dear Ms. Leading'
  'Act II: The Meaning of, and All Things Regarding Ms. Leading'
  'Act III: Life and Death ' 'Migrant' 'The Color Spectrum'
  'All Is As All Should Be' 'Antimai' 'The Indigo Child' 'Migrant Returned'
- 'The Branches EP' 'Random EP #02']";14;01/01/2005;01/07/2022;20748.0;20;9;0.058823529411764705
+ 'The Branches EP' 'Random EP #02']";14;2005-01-01;2022-07-01;20748.0;20;9;0.0588235294117647;114;39
 The National;178;"['First Two Pages of Frankenstein' 'Trouble Will Find Me'
  'Game of Thrones: Season 2 (Music from the HBO Series)'
  'Sleep Well Beast' 'Boxer ' 'High Violet' 'Cherry Tree'
@@ -220,14 +220,14 @@ The National;178;"['First Two Pages of Frankenstein' 'Trouble Will Find Me'
  'Songs for Australia' 'Spotify Singles'
  'Cyrano (Original Motion Picture Soundtrack)'
  'Ciao My Shining Star - The Songs of Mark Mulcahy' 'Songs Without Words'
- 'Daytrotter Session' 'The National (2021 Remaster)']";23;01/01/2001;18/09/2023;267566.0;12;17;0.09550561797752809
+ 'Daytrotter Session' 'The National (2021 Remaster)']";23;2001-01-01;2023-09-18;267566.0;12;17;0.095505617977528;128;50
 There Will Be Fireworks;44;"['The Dark, Dark Bright' 'There Will Be Fireworks' 'Because, Because'
- 'Summer Moon']";4;01/01/2011;01/12/2023;;0;0;0.0
+ 'Summer Moon']";4;2011-01-01;2023-12-01;;0;0;0.0;22;22
 VOLA;40;"['Witness' 'Applause of a Distant Crowd' 'Inmazes' 'Monsters (EP)'
- 'Homesick Machinery (EP)' 'Glasswork (Single)' 'Witness (Deluxe Edition)']";5;22/03/2010;23/08/2023;7707.0;1;1;0.025
+ 'Homesick Machinery (EP)' 'Glasswork (Single)' 'Witness (Deluxe Edition)']";5;2010-03-22;2023-08-23;7707.0;1;1;0.025;35;5
 Within Temptation;120;"['Resist (Extended Deluxe)' 'Hydra'
  'The Heart of Everything (Special Edition)' 'The Silent Force'
  'The Unforgiving ' 'Bleed Out - EP' 'Mother Earth'
  'The Heart of Everything' 'Bleed Out' 'An Acoustic Night at the Theatre'
  'Forgotten Songs - Single' 'Enter' 'The Q-music Sessions'
- 'Black Symphony' 'The Dance [EP]']";12;07/04/1997;20/10/2023;36823.0;14;12;0.1
+ 'Black Symphony' 'The Dance [EP]']";12;1997-04-07;2023-10-20;36823.0;14;12;0.1;68;52
